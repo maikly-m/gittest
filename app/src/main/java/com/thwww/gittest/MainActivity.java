@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity {
         String test = "test";
         //haha
         String s = test.toUpperCase();
+
+        String d = s +" " + "ha";
     }
 }
