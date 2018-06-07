@@ -9,5 +9,11 @@ public class Test {
 
     public Test () {
         super();
+
+        test();
+    }
+
+    private void test () {
+        //t
     }
 }
