@@ -15,5 +15,11 @@ public class MainActivity extends AppCompatActivity {
     private void init () {
         //test
         String dd = "dd";
+        init2();
+    }
+
+    private void init2 () {
+        //test2
+        String ha = "ha";
     }
 }
