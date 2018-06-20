@@ -26,6 +26,7 @@ out
 
 # Gradle files
 .gradle
+.idea
 build
 build/
 
